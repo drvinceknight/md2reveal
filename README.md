@@ -38,7 +38,7 @@ Here's some markdown code:
     - 1140 - 1040: Lab session (SAS)
 
 Here's the corresponding reveal slide:
-![reveal_output](reveal_output.png)
+![reveal_output](https://github.com/drvinceknight/md2reveal/blob/master/reveal_output.png?raw=true)
 
 # Usage
 
