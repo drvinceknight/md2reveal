@@ -16,7 +16,7 @@ def print_slide(string, outfile):
     Function to write slides in reveal markdown format.
     """
     outfile = open(outfile, "ab")
-    outfile.write("<section data-markdown>")
+    outfile.write("<section align=left data-markdown>")
     outfile.write(string)
     outfile.write("</section>")
     outfile.close()
